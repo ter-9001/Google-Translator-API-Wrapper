@@ -45,7 +45,7 @@ from app import get_translation_from_google_translate
 
 ```
 
-**NOTE**: Assuming that the `app.py` file is in the same folder as your project and that you have not changed its name. You can also just copy and paste the function code along with its libraries; it will work the same way :)
+**NOTE**: Assuming that the `app.py` file is in the same folder as your project and that you have not changed its name. __You can also just copy and paste the function code along with its libraries; it will work the same way :)__
 
 ### 2. Basic Usage
 
