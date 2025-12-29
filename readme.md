@@ -1,6 +1,3 @@
-Com certeza! Aqui está a tradução completa do `README.md` para o inglês.
-
-```markdown
 ## 🌍 Google Translate Selenium Wrapper
 
 This repository contains a simple Python wrapper (`app.py`) that utilizes **Selenium** and **Chrome (Headless)** to perform translations via the Google Translate web interface.
